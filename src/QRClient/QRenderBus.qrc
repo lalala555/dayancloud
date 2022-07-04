@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/srs/compdcs.csv</file>
+        <file>Resource/srs/gcs.csv</file>
+        <file>Resource/srs/geoccs.csv</file>
+        <file>Resource/srs/pcs.csv</file>
+        <file>Resource/srs/vertcs.csv</file>
+        <file>Resource/sensor_database.csv</file>
+    </qresource>
+</RCC>
